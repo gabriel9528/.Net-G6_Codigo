@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Product>
+
+<p>
+    @Html.ActionLink("Create New Product", "Create", null, new { @Class = "btn btn-primary" })
+</p>
+
+@if (TempData["infoMessage"] != null)
+{
+    <div class="alert alert-info">
+        <strong>Information: </strong> @TempData["infoMessage"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+    </div>
+}
+
+else if (TempData["errorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+        <strong>Error: </strong> @TempData["errorMessage"]
+    </div>
+}
+else if (TempData["successMessage"] != null)
+{
+    <div class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+        <strong>Success: </strong> @TempData["successMessage"]
+    </div>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Remarks)
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Details", "Details", new { id = item.ProductId }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProductId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
