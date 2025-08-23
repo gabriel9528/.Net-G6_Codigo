@@ -1,0 +1,75 @@
+﻿@model Product
+
+
+@if (TempData["infoMessage"] != null)
+{
+    <div class="alert alert-info">
+        <strong>Information: </strong> @TempData["infoMessage"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+    </div>
+}
+
+else if (TempData["errorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+        <strong>Error: </strong> @TempData["errorMessage"]
+    </div>
+}
+else if (TempData["successMessage"] != null)
+{
+    <div class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert" aria-label="close">
+            <span>&times;</span>
+        </button>
+        <strong>Success: </strong> @TempData["successMessage"]
+    </div>
+}
+
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Remarks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Remarks)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\dal\\product_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\dal\\iproduct_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|solutionrelative:asp.net_sp\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40B79A2C-0AD6-4638-89B1-5B52E4D6EB00}|ASP.NET_SP\\ASP.NET_SP.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana13\\viernes_22_08\\asp.net_sp\\asp.net_sp\\asp.net_sp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,71 +50,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Custom.js",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\wwwroot\\js\\Custom.js",
-              "RelativeDocumentMoniker": "ASP.NET_SP\\wwwroot\\js\\Custom.js",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\wwwroot\\js\\Custom.js",
-              "RelativeToolTip": "ASP.NET_SP\\wwwroot\\js\\Custom.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-23T01:51:13.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProduct_DAL.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\DAL\\IProduct_DAL.cs",
-              "RelativeDocumentMoniker": "ASP.NET_SP\\DAL\\IProduct_DAL.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\DAL\\IProduct_DAL.cs",
-              "RelativeToolTip": "ASP.NET_SP\\DAL\\IProduct_DAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:40:47.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Program.cs",
               "RelativeDocumentMoniker": "ASP.NET_SP\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Program.cs",
-              "RelativeToolTip": "ASP.NET_SP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Program.cs*",
+              "RelativeToolTip": "ASP.NET_SP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:32:32.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ASP.NET_SP\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ASP.NET_SP\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:20:14.34Z",
+              "WhenOpened": "2025-08-23T04:05:21.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP.NET_SP\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwGQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T04:03:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET_SP\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-23T01:12:00.459Z",
+              "WhenOpened": "2025-08-23T04:01:00.247Z",
               "EditorCaption": ""
             },
             {
@@ -121,40 +99,76 @@
               "RelativeDocumentMoniker": "ASP.NET_SP\\DAL\\Product_DAL.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\DAL\\Product_DAL.cs",
               "RelativeToolTip": "ASP.NET_SP\\DAL\\Product_DAL.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAiwIYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:58:33.755Z",
+              "WhenOpened": "2025-08-23T02:57:45.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ASP.NET_SP\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Models\\Product.cs",
-              "RelativeToolTip": "ASP.NET_SP\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:42:46.606Z",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET_SP\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T02:53:19.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ASP.NET_SP",
+              "Title": "Custom.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\wwwroot\\js\\Custom.js",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\wwwroot\\js\\Custom.js",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\wwwroot\\js\\Custom.js",
+              "RelativeToolTip": "ASP.NET_SP\\wwwroot\\js\\Custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-23T01:51:13.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\DAL\\IProduct_DAL.cs",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\DAL\\IProduct_DAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\DAL\\IProduct_DAL.cs",
+              "RelativeToolTip": "ASP.NET_SP\\DAL\\IProduct_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T01:40:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.NET_SP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T01:12:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ASP.NET_SP.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\ASP.NET_SP.csproj",
               "RelativeDocumentMoniker": "ASP.NET_SP\\ASP.NET_SP.csproj",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\ASP.NET_SP.csproj",
               "RelativeToolTip": "ASP.NET_SP\\ASP.NET_SP.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-23T00:40:28.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T00:40:28.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana13\\Viernes_22_08\\ASP.NET_SP\\ASP.NET_SP\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASP.NET_SP\\Properties\\launchSettings.json",
@@ -162,8 +176,7 @@
               "RelativeToolTip": "ASP.NET_SP\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-23T00:39:44.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T00:39:44.206Z"
             }
           ]
         },

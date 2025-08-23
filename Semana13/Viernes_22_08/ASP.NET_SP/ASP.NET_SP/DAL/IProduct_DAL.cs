@@ -4,6 +4,9 @@ namespace ASP.NET_SP.DAL
 {
     public interface IProduct_DAL
     {
-        List<Product> GetAllProducts();
+        List<Product>? GetAllProducts();
+        Product? GetProductById(int id);
+        bool InsertProduct(Product product);
+        bool UpdateProduct(Product product);
     }
 }
