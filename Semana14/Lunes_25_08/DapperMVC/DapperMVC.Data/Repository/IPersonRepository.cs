@@ -8,6 +8,6 @@ namespace DapperMVC.Data.Repository
         Task<bool> UpdatePersonAsync(Person person);
         Task<bool> DeletePersonAsync(int id);
         Task<Person> GetPersonByIdAsync(int id);
-        Task<IEnumerable<Person>> GetAllPersonAsync();
+        Task<IEnumerable<Person>> GetAllPersonsAsync();
     }
 }

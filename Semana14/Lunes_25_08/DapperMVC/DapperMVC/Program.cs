@@ -1,4 +1,5 @@
 using DapperMVC.Data.DataAccess;
+using DapperMVC.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
+builder.Services.AddTransient<IPersonRepository, PersonRepository>();
 
 var app = builder.Build();
 

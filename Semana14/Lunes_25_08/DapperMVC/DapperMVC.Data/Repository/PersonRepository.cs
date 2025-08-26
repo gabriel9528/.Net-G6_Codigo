@@ -38,8 +38,7 @@ namespace DapperMVC.Data.Repository
                     person.Id,
                     person.Name,
                     person.Email,
-                    person.Address,
-                    person.IsActive
+                    person.Address
                 });
                 return true;
             }
@@ -62,7 +61,7 @@ namespace DapperMVC.Data.Repository
             }
         }
 
-        public async Task<IEnumerable<Person>> GetAllPersonAsync()
+        public async Task<IEnumerable<Person>> GetAllPersonsAsync()
         {
             try
             {

@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\bin\Debug\net8.0\DapperMVC.Data.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\bin\Debug\net8.0\DapperMVC.Data.dll
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\bin\Debug\net8.0\DapperMVC.Data.pdb
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.dll
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\refint\DapperMVC.Data.dll
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\DapperMVC.Data.pdb
+C:\Users\ASUS\OneDrive\Desktop\Codigo_Tecsup\.Net-G6_Codigo\Semana14\Lunes_25_08\DapperMVC\DapperMVC.Data\obj\Debug\net8.0\ref\DapperMVC.Data.dll

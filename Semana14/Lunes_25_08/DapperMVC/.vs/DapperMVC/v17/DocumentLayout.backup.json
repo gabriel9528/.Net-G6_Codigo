@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc.data\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|solutionrelative:dappermvc.data\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\views\\person\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\views\\person\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|solutionrelative:dappermvc.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc.data\\dataaccess\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|solutionrelative:dappermvc.data\\dataaccess\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCAF0D25-C93C-4E8B-A129-27BDEA9725AD}|DapperMVC\\DapperMVC.csproj|solutionrelative:dappermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEFF9D87-C518-4318-B240-2E44683CAB04}|DapperMVC.Data\\DapperMVC.Data.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\lunes_25_08\\dappermvc\\dappermvc.data\\dappermvc.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,11 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Views\\Person\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DapperMVC\\Views\\Person\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Views\\Person\\Edit.cshtml",
+              "RelativeToolTip": "DapperMVC\\Views\\Person\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T03:36:18.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Views\\Person\\Add.cshtml",
+              "RelativeDocumentMoniker": "DapperMVC\\Views\\Person\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Views\\Person\\Add.cshtml",
+              "RelativeToolTip": "DapperMVC\\Views\\Person\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T03:16:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "DapperMVC\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "DapperMVC\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:48:20.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "DapperMVC.Data\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "DapperMVC.Data\\Repository\\PersonRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:52:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DapperMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\Program.cs",
+              "RelativeToolTip": "DapperMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:32:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC\\appsettings.json",
               "RelativeDocumentMoniker": "DapperMVC\\appsettings.json",
@@ -38,47 +119,32 @@
               "RelativeToolTip": "DapperMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T01:25:54.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T01:25:54.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SqlDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DataAccess\\SqlDataAccess.cs",
               "RelativeDocumentMoniker": "DapperMVC.Data\\DataAccess\\SqlDataAccess.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DataAccess\\SqlDataAccess.cs",
               "RelativeToolTip": "DapperMVC.Data\\DataAccess\\SqlDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T01:24:59.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ISqlDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DataAccess\\ISqlDataAccess.cs",
-              "RelativeDocumentMoniker": "DapperMVC.Data\\DataAccess\\ISqlDataAccess.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DataAccess\\ISqlDataAccess.cs",
-              "RelativeToolTip": "DapperMVC.Data\\DataAccess\\ISqlDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:21:06.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DapperMVC.Data",
+              "DocumentIndex": 7,
+              "Title": "DapperMVC.Data.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DapperMVC.Data.csproj",
               "RelativeDocumentMoniker": "DapperMVC.Data\\DapperMVC.Data.csproj",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Lunes_25_08\\DapperMVC\\DapperMVC.Data\\DapperMVC.Data.csproj",
               "RelativeToolTip": "DapperMVC.Data\\DapperMVC.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T01:19:12.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T01:19:12.35Z"
             }
           ]
         },
