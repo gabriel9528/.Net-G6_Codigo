@@ -1,0 +1,45 @@
+﻿@model BOL.DataBaseEntities.Student
+
+<div>
+	<h3>Crear Nuevo Estudiante</h3>
+</div>
+
+<div class="row">
+	<div class="col-md-8">
+		@{
+			if (TempData["Message"] != null)
+			{
+				<div class="alert alert-info">
+					@TempData["Message"]
+				</div>
+			}
+		}
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-8">
+		<form asp-action="CreateStudent" method="post">
+			<div class="mb-3">
+				<label asp-for="FirstName" class="form-label"></label>
+				<input asp-for="FirstName" class="form-control" />
+				<span asp-validation-for="FirstName" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="LastName" class="form-label"></label>
+				<input asp-for="LastName" class="form-control" />
+				<span asp-validation-for="LastName" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Email" class="form-label"></label>
+				<input asp-for="Email" class="form-control" />
+				<span asp-validation-for="Email" class="text-danger"></span>
+			</div>
+
+			<button type="submit" class="btn btn-primary">Editar Estudiante</button>
+			<a class="btn btn-secondary" href="@Url.Action("GetStudents", "Students")">Lista de Estudiantes</a>
+		</form>
+	</div>
+</div>
+
+

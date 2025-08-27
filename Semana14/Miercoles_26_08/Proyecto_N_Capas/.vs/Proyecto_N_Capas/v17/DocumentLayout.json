@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBB71DF1-11EE-47E8-B664-FED0A02E2B40}|BOL\\BOL.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\bol\\commonentities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB71DF1-11EE-47E8-B664-FED0A02E2B40}|BOL\\BOL.csproj|solutionrelative:bol\\commonentities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D3CA8D-1363-40F5-A1DD-04EF88F42C11}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\dal\\dataservices\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3CA8D-1363-40F5-A1DD-04EF88F42C11}|DAL\\DAL.csproj|solutionrelative:dal\\dataservices\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\views\\students\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\views\\students\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\views\\students\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\views\\students\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\views\\students\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\views\\students\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\views\\students\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\views\\students\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\proyecto_n_capas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBDFBBEA-8BD7-417D-B5D3-B75DDF511D1A}|Proyecto_N_Capas\\Proyecto_N_Capas.csproj|solutionrelative:proyecto_n_capas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63D3CA8D-1363-40F5-A1DD-04EF88F42C11}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\codigo_tecsup\\.net-g6_codigo\\semana14\\miercoles_26_08\\proyecto_n_capas\\dal\\dataservices\\istudentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +55,111 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\BOL\\CommonEntities\\StudentModel.cs",
-              "RelativeDocumentMoniker": "BOL\\CommonEntities\\StudentModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\BOL\\CommonEntities\\StudentModel.cs",
-              "RelativeToolTip": "BOL\\CommonEntities\\StudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\DAL\\DataServices\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DataServices\\StudentDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\DAL\\DataServices\\StudentDAL.cs",
+              "RelativeToolTip": "DAL\\DataServices\\StudentDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T02:05:41.962Z",
+              "WhenOpened": "2025-08-27T03:36:20.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Views\\Students\\DeleteStudent.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\DeleteStudent.cshtml",
+              "RelativeToolTip": "Proyecto_N_Capas\\Views\\Students\\DeleteStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T03:45:41.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Proyecto_N_Capas\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:34:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\CreateStudent.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Views\\Students\\CreateStudent.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\CreateStudent.cshtml",
+              "RelativeToolTip": "Proyecto_N_Capas\\Views\\Students\\CreateStudent.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T03:31:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Views\\Students\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\EditStudent.cshtml",
+              "RelativeToolTip": "Proyecto_N_Capas\\Views\\Students\\EditStudent.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T03:31:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\appsettings.json",
+              "RelativeToolTip": "Proyecto_N_Capas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T02:57:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto_N_Capas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T02:54:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\GetStudents.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_N_Capas\\Views\\Students\\GetStudents.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\Proyecto_N_Capas\\Views\\Students\\GetStudents.cshtml",
+              "RelativeToolTip": "Proyecto_N_Capas\\Views\\Students\\GetStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T02:46:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IStudentDAL.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\DAL\\DataServices\\IStudentDAL.cs",
               "RelativeDocumentMoniker": "DAL\\DataServices\\IStudentDAL.cs",
@@ -47,12 +167,11 @@
               "RelativeToolTip": "DAL\\DataServices\\IStudentDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T01:56:01.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T01:56:01.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Codigo_Tecsup\\.Net-G6_Codigo\\Semana14\\Miercoles_26_08\\Proyecto_N_Capas\\BOL\\DataBaseEntities\\Student.cs",
               "RelativeDocumentMoniker": "BOL\\DataBaseEntities\\Student.cs",
@@ -60,8 +179,7 @@
               "RelativeToolTip": "BOL\\DataBaseEntities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:51:11.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T00:51:11.305Z"
             }
           ]
         },

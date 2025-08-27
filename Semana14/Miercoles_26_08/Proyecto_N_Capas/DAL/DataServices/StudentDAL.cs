@@ -20,7 +20,7 @@ namespace DAL.DataServices
             {
                 using (IDbConnection dbConnection = _dapperConnectionHelper.GetDapperConnectionHelper())
                 {
-                    string sqlQuery = "SELECT * FROM Student";
+                    string sqlQuery = "SELECT * FROM Student WHERE IsActive = 1";
                     students = dbConnection.Query<Student>(sqlQuery).ToList();
                 }
             }
@@ -37,7 +37,7 @@ namespace DAL.DataServices
             bool result = false;
             try
             {
-                using(IDbConnection dbConnection = _dapperConnectionHelper.GetDapperConnectionHelper())
+                using (IDbConnection dbConnection = _dapperConnectionHelper.GetDapperConnectionHelper())
                 {
                     string query = "INSERT INTO Student (FirstName, LastName, Email, IsActive) " +
                         "VALUES (@FirstName, @LastName, @Email, @IsActive)";
@@ -47,7 +47,7 @@ namespace DAL.DataServices
                         LastName = student.LastName,
                         Email = student.Email,
                         IsActive = 1
-                    }, commandType:CommandType.Text);
+                    }, commandType: CommandType.Text);
                 }
                 result = true;
             }
@@ -76,7 +76,7 @@ namespace DAL.DataServices
                         Email = student.Email
                     }, commandType: CommandType.Text);
                 }
-                result = true; ;
+                result = true;
             }
             catch (Exception ex)
             {
@@ -91,7 +91,7 @@ namespace DAL.DataServices
             bool result = false;
             try
             {
-                using(IDbConnection dbconnection = _dapperConnectionHelper.GetDapperConnectionHelper())
+                using (IDbConnection dbconnection = _dapperConnectionHelper.GetDapperConnectionHelper())
                 {
                     string query = "Update Student set IsActive = 0 where Id = @Id";
                     dbconnection.Execute(query, new

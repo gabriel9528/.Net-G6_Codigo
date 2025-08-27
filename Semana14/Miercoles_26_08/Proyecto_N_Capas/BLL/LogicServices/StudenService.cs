@@ -38,7 +38,7 @@ namespace BLL.LogicServices
             return result;
         }
 
-            
+
         public bool UpdateStudentService(Student student)
         {
             bool result = false;
@@ -61,7 +61,7 @@ namespace BLL.LogicServices
         }
         public bool DeleteStudentService(int id)
         {
-            if(id <= 0)
+            if (id <= 0)
             {
                 return false;
             }

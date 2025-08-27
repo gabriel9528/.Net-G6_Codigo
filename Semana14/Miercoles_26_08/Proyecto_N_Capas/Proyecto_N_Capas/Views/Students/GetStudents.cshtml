@@ -1,0 +1,50 @@
+﻿@model BOL.CommonEntities.StudentModel
+
+<div class="row">
+	<div class="col-lg-6">
+		<h2>Lista de Estudiantes</h2>
+	</div>
+	<div class="col-lg-6 text-end">
+		<a class="btn btn-success" href="@Url.Action("CreateStudent", "Students")">Agregar nuevo Estudiante</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-12">
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Id</th>
+					<th>Nombre</th>
+					<th>Apellido</th>
+					<th>Email</th>
+					<th>Estado</th>
+					<th>Acciones</th>
+				</tr>
+			</thead>
+			<tbody>
+				@if(Model.StudentList != null && Model.StudentList.Count > 0)
+				{
+					@foreach (var student in Model.StudentList)
+					{
+						<tr>
+							<td>@student.Id</td>
+							<td>@student.FirstName</td>
+							<td>@student.LastName</td>
+							<td>@student.Email</td>
+							<td>@student.IsActive</td>
+							<td>
+								<a class="btn btn-primary btn-sm" href="@Url.Action("EditStudent", "Students", new { id = student.Id })">Editar</a>
+								<a class="btn btn-danger btn-sm" href="@Url.Action("DeleteStudent", "Students", new { id = student.Id })">Eliminar</a>
+							</td>
+						</tr>
+					}
+				}
+			</tbody>
+		</table>
+	</div>
+</div>
+
+
+
+

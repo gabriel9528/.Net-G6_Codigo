@@ -1,0 +1,22 @@
+﻿@model BOL.DataBaseEntities.Student
+
+@{
+	ViewBag.Title = "Eliminar Estudiante";
+}
+
+<h2>Confirmar Eliminacion</h2>
+
+<p>¿Esta seguro que desea eliminar este registro?</p>
+
+<div>
+	<h3>@Model.FirstName @Model.LastName</h3>
+	<p>Email: @Model.Email</p>
+</div>
+
+<form asp-action="DeleteStudent" method="post">
+	<input type="hidden" asp-for="Id" />
+	<button type="submit" class="btn btn-danger">Eliminar Estudiante</button>
+	<a class="btn btn-secondary" href="@Url.Action("GetStudents", "Students")">Cancelar</a>
+</form>
+
+
