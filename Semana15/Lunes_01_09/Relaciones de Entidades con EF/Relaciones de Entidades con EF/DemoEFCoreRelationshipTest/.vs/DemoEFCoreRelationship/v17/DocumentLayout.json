@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\manytomany\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\manytomany\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\repo\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\repo\\repositoryonetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\repo\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\repo\\repositorymanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\repo\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\repo\\repositoryonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|c:\\diskd\\codigotecsup\\c#\\relaciones de entidades con ef\\demoefcorerelationship\\demoefcorerelationship\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A486FEC-0DEC-49B9-A5B4-CF75E828E463}|DemoEFCoreRelationship\\DemoEFCoreRelationship.csproj|solutionrelative:demoefcorerelationship\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryOneToMany.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryOneToMany.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Repo\\RepositoryOneToMany.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryOneToMany.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Repo\\RepositoryOneToMany.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwDwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T01:33:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Controllers\\TestController.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAA9wGsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:22:30.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:33:07.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryManyToMany.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryManyToMany.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Repo\\RepositoryManyToMany.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryManyToMany.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Repo\\RepositoryManyToMany.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:38:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\ManyToMany\\Subject.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\ManyToMany\\Subject.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\ManyToMany\\Subject.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\ManyToMany\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:10:25.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\ManyToMany\\Student.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\ManyToMany\\Student.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\ManyToMany\\Student.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\ManyToMany\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:10:16.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240818030250_six.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Migrations\\20240818030250_six.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:02:50.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Program.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:34:57.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240818021801_third.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Migrations\\20240818021801_third.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:18:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\OneToMany\\Doctor.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToMany\\Doctor.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\OneToMany\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T01:13:23.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToMany\\Patient.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\OneToMany\\Patient.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToMany\\Patient.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\OneToMany\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T01:15:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240818013558_second.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Migrations\\20240818013558_second.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T01:35:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarCompany.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\OneToOne\\CarCompany.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\OneToOne\\CarCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:08:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryOneToOne.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryOneToOne.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Repo\\RepositoryOneToOne.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Repo\\RepositoryOneToOne.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Repo\\RepositoryOneToOne.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:14:45.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToOne\\CarModel.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Models\\OneToOne\\CarModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Models\\OneToOne\\CarModel.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Models\\OneToOne\\CarModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:10:19.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240817235223_first.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs",
+              "RelativeDocumentMoniker": "DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Relaciones de Entidades con EF\\DemoEFCoreRelationship\\DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs",
+              "RelativeToolTip": "DemoEFCoreRelationship\\Migrations\\20240817235223_first.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:52:23.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

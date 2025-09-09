@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\migrations\\20250906011650_intital_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\migrations\\20250906011650_intital_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\viernes_05_09\\identity_mvc\\identity_mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DF5468-158D-4139-A9BB-06E1E8DA308C}|Identity_MVC\\Identity_MVC.csproj|solutionrelative:identity_mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Identity_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Identity_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T03:29:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Identity_MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Identity_MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T02:50:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Identity_MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Identity_MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T02:41:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Identity_MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:35:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Identity_MVC\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:23:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Identity_MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:19:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Identity_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:51:42.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Identity_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Identity_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T03:31:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Program.cs",
+              "RelativeToolTip": "Identity_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:01:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250906011650_intital_identity.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Migrations\\20250906011650_intital_identity.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Migrations\\20250906011650_intital_identity.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Migrations\\20250906011650_intital_identity.cs",
+              "RelativeToolTip": "Identity_MVC\\Migrations\\20250906011650_intital_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:16:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Identity_MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:56:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Identity_MVC\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Viernes_05_09\\Identity_MVC\\Identity_MVC\\Models\\AppUser.cs",
+              "RelativeToolTip": "Identity_MVC\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:53:32.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

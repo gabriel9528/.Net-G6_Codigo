@@ -1,0 +1,53 @@
+﻿using DemoEFCoreRelationship.Data;
+using DemoEFCoreRelationship.Models.ManyToMany;
+using DemoEFCoreRelationship.Models.OneToMany;
+using DemoEFCoreRelationship.Models.OneToOne;
+using Microsoft.EntityFrameworkCore;
+
+namespace DemoEFCoreRelationship.Repo
+{
+    public class RepositoryManyToMany
+    {
+        private readonly AppDbContext _context;
+
+        public RepositoryManyToMany(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task AddStudent(Student student)
+        {
+            _context.Students.Add(student);
+            await _context.SaveChangesAsync();
+        }   
+
+        public async Task<List<Student>> GetStudents() => 
+            await _context.Students.Include(x=>x.StudentSubjects).ToListAsync();
+
+        public async Task AddSubject(Subject subject)
+        {
+            _context.Subjects.Add(subject);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Subject>> GetSubjects() => 
+            await _context.Subjects.Include(x=>x.StudentSubjects).ToListAsync();
+
+        public async Task AddStudentSubject(Test test)
+        {
+            await _context.StudentSubjects.AddAsync(new StudentSubject()
+            {
+                StudentId = test.StudentId,
+                SubjectId = test.SubjectId
+            });
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<StudentSubject>> GetStudentSubjects() => 
+            await _context.StudentSubjects
+            .Include(s => s.Student)
+            .Include(s => s.Subject)
+            .ToListAsync();
+
+    }
+}

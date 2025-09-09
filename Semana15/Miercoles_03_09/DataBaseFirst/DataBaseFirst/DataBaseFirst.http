@@ -1,0 +1,36 @@
+@DataBaseFirst_HostAddress = https://localhost:7053
+
+GET {{DataBaseFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{DataBaseFirst_HostAddress}}/api/Clientes
+
+###
+
+POST {{DataBaseFirst_HostAddress}}/api/Clientes
+Content-Type: application/json
+
+{
+
+  "nombreCliente": "Pepito15",
+  "cif": "string",
+  "email": "string",
+  "direccion": "string",
+  "usuario": "Gabriel",
+  "password": "UHJ1ZWJhMQ==",
+  "fechaAlta": "2025-09-03T03:01:54.852Z",
+  "fechaBaja": "2025-09-03T03:01:54.852Z",
+  "descripcion": "string",
+  "genero": "string",
+  "fechaNacimiento": "2025-09-03T03:01:54.852Z",
+  "columnaNueva": "string"
+}
+
+###
+
+GET {{DataBaseFirst_HostAddress}}/api/TablaNueva
+
+###
+

@@ -1,0 +1,111 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components
+@using DomainLayer.Entities
+@using ApplicationLayer.Dtos
+@using ApplicationLayer.Service
+
+
+@inject NavigationManager Navigation
+@inject IEmployeeService employeeService
+
+<PageTitle>Codigo</PageTitle>
+
+<h1>Clean Architecture!</h1>
+
+<div class="row">
+    <div class="col-lg-6">
+        <EditForm Model="employee" OnValidSubmit="UpSert">
+            <DataAnnotationsValidator />
+            <InputText @bind-Value="employee.Name"
+                       placeholder="Full Name"
+                       class="form-control mb-3" />
+            <ValidationMessage For="() => employee.Name" />
+
+            <InputText @bind-Value="employee.Address"
+                       placeholder="Address"
+                       class="form-control mb-3" />
+            <ValidationMessage For="() => employee.Address" />
+
+            <button class="btn btn-primary mt-5 mb-5" type="submit">Save</button>
+        </EditForm>
+    </div>
+
+    <div class="col-lg-6">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (listEmployees is not null && listEmployees.Count > 0)
+                {
+                    @foreach (var employee in listEmployees)
+                    {
+                        <tr>
+                            <td>@employee.Id</td>
+                            <td>@employee.Name</td>
+                            <td>@employee.Address</td>
+                            <td>
+                                <button class="btn btn-info btn-sm" @onclick="() => EditClicked(employee)">Edit</button>
+                                <button class="btn btn-danger btn-sm" @onclick="() => DeleteClicked(employee.Id)">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4">No data</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+
+    Employee employee = new Employee();
+
+    async Task UpSert()
+    {
+        if (employee.Id > 0)
+        {
+            await employeeService.PutAsync(employee);
+        }
+        else
+        {
+            await employeeService.PostAsync(employee);
+        }
+
+        await GetData();
+        employee = new Employee(); // Resets the form after saving
+    }
+
+    List<Employee> listEmployees = new List<Employee>();
+
+    protected override async Task OnInitializedAsync() => await GetData();
+
+
+
+    private async Task GetData() 
+    {
+        listEmployees = await employeeService.GetAllAsync();
+    }
+
+    void EditClicked(Employee employee)
+    {
+        this.employee = employee;
+    }
+
+    async void DeleteClicked(int id)
+    {
+        await employeeService.DeleteAsync(id);
+        await GetData();
+    }
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\databasefirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\databasefirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\data\\newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\data\\newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\20250903014340_modified_cliente_married.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\20250903014340_modified_cliente_married.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\20250903032528_table_newtable_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\20250903032528_table_newtable_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\20250903032020_table_newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\20250903032020_table_newtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\data\\g6databasefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\data\\g6databasefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\20250903013929_modified_cliente_gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\20250903013929_modified_cliente_gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\20250903012420_modified_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\20250903012420_modified_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\miercoles_03_09\\databasefirst\\databasefirst\\migrations\\g6databasefirstcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3246B32-CF47-4744-A238-AC93E20EC3EC}|DataBaseFirst\\DataBaseFirst.csproj|solutionrelative:databasefirst\\migrations\\g6databasefirstcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewTable.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\NewTable.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Data\\NewTable.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\NewTable.cs",
+              "RelativeToolTip": "DataBaseFirst\\Data\\NewTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:15:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseFirst.http",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\DataBaseFirst.http",
+              "RelativeDocumentMoniker": "DataBaseFirst\\DataBaseFirst.http",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\DataBaseFirst.http",
+              "RelativeToolTip": "DataBaseFirst\\DataBaseFirst.http",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-03T02:55:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250903014340_modified_cliente_married.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903014340_modified_cliente_married.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\20250903014340_modified_cliente_married.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903014340_modified_cliente_married.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\20250903014340_modified_cliente_married.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:43:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Program.cs",
+              "RelativeToolTip": "DataBaseFirst\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T00:56:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250903032528_table_newTable_type.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903032528_table_newTable_type.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\20250903032528_table_newTable_type.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903032528_table_newTable_type.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\20250903032528_table_newTable_type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:25:33.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\Cliente.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Data\\Cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\Cliente.cs",
+              "RelativeToolTip": "DataBaseFirst\\Data\\Cliente.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:16:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250903032020_table_newTable.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903032020_table_newTable.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\20250903032020_table_newTable.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903032020_table_newTable.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\20250903032020_table_newTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:21:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250903013929_modified_cliente_gender.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903013929_modified_cliente_gender.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\20250903013929_modified_cliente_gender.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903013929_modified_cliente_gender.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\20250903013929_modified_cliente_gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:39:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "G6DataBaseFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\G6DataBaseFirstContext.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Data\\G6DataBaseFirstContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Data\\G6DataBaseFirstContext.cs",
+              "RelativeToolTip": "DataBaseFirst\\Data\\G6DataBaseFirstContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:53:22.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250903012420_modified_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903012420_modified_cliente.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\20250903012420_modified_cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\20250903012420_modified_cliente.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\20250903012420_modified_cliente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:25:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "G6DataBaseFirstContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\G6DataBaseFirstContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataBaseFirst\\Migrations\\G6DataBaseFirstContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Miercoles_03_09\\DataBaseFirst\\DataBaseFirst\\Migrations\\G6DataBaseFirstContextModelSnapshot.cs",
+              "RelativeToolTip": "DataBaseFirst\\Migrations\\G6DataBaseFirstContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:25:31.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

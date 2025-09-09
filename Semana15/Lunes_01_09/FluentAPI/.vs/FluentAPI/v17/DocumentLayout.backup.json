@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\migrations\\20250902010450_relation_one_to_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\migrations\\20250902010450_relation_one_to_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\models\\onetoone\\carcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\fluentapi\\fluentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FC511-D3C3-4B64-A404-3782E41A1925}|FluentAPI\\FluentAPI.csproj|solutionrelative:fluentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250902015744_relation_many_to_many.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs",
+              "RelativeToolTip": "FluentAPI\\Migrations\\20250902015744_relation_many_to_many.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:57:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FluentAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:47:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250902012954_relation_one_to_many.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs",
+              "RelativeToolTip": "FluentAPI\\Migrations\\20250902012954_relation_one_to_many.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:29:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Models\\OneToMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Models\\OneToMany\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Models\\OneToMany\\Doctor.cs",
+              "RelativeToolTip": "FluentAPI\\Models\\OneToMany\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:19:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FluentAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:05:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250902010450_relation_one_to_one.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902010450_relation_one_to_one.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Migrations\\20250902010450_relation_one_to_one.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Migrations\\20250902010450_relation_one_to_one.cs",
+              "RelativeToolTip": "FluentAPI\\Migrations\\20250902010450_relation_one_to_one.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:04:50.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarCompany.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Models\\OneToOne\\CarCompany.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Models\\OneToOne\\CarCompany.cs",
+              "RelativeToolTip": "FluentAPI\\Models\\OneToOne\\CarCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:03:52.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FluentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\FluentAPI\\FluentAPI\\Program.cs",
+              "RelativeToolTip": "FluentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T00:55:14.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

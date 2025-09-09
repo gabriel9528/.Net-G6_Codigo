@@ -1,0 +1,138 @@
+[
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "GetCarModels",
+    "RelativePath": "api/Test/CarModel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddCarCompany",
+    "RelativePath": "api/Test/CartCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carCompany",
+        "Type": "DemoEFCoreRelationship.Models.OneToOne.CarCompany",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "GetCarCompanies",
+    "RelativePath": "api/Test/CartCompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddCarModel",
+    "RelativePath": "api/Test/CartModel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carModel",
+        "Type": "DemoEFCoreRelationship.Models.OneToOne.CarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddDoctor",
+    "RelativePath": "api/Test/Doctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "DemoEFCoreRelationship.Models.OneToMany.Doctor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "GetDoctors",
+    "RelativePath": "api/Test/Doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddPatient",
+    "RelativePath": "api/Test/Patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "DemoEFCoreRelationship.Models.OneToMany.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "GetPatients",
+    "RelativePath": "api/Test/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddStudent",
+    "RelativePath": "api/Test/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "DemoEFCoreRelationship.Models.ManyToMany.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoEFCoreRelationship.Controllers.TestController",
+    "Method": "AddSubject",
+    "RelativePath": "api/Test/Subject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subject",
+        "Type": "DemoEFCoreRelationship.Models.ManyToMany.Subject",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

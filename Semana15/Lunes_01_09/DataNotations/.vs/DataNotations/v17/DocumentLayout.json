@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\manytomany\\example2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\manytomany\\example2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\manytomany\\example2\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\manytomany\\example2\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\manytomany\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\manytomany\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\manytomany\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\manytomany\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\manytomany\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\onetomany\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\onetomany\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\models\\onetoone\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\migrations\\20250902025048_relation_one_to_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\migrations\\20250902025048_relation_one_to_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana15\\lunes\\datanotations\\datanotations\\datanotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9518AA8-6BAB-4EEC-BF7E-A9FC8E7B5F80}|DataNotations\\DataNotations.csproj|solutionrelative:datanotations\\datanotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250902032509_relation_many_to_many_2.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs",
+              "RelativeToolTip": "DataNotations\\Migrations\\20250902032509_relation_many_to_many_2.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:25:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Example2\\Person.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\ManyToMany\\Example2\\Person.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Example2\\Person.cs",
+              "RelativeToolTip": "DataNotations\\Models\\ManyToMany\\Example2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:21:38.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Example2\\Business.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\ManyToMany\\Example2\\Business.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Example2\\Business.cs",
+              "RelativeToolTip": "DataNotations\\Models\\ManyToMany\\Example2\\Business.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:21:30.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250902031928_relation_many_to_many.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs",
+              "RelativeToolTip": "DataNotations\\Migrations\\20250902031928_relation_many_to_many.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:19:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\ManyToMany\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\StudentCourse.cs",
+              "RelativeToolTip": "DataNotations\\Models\\ManyToMany\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:11:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Course.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\ManyToMany\\Course.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Course.cs",
+              "RelativeToolTip": "DataNotations\\Models\\ManyToMany\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:11:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Student.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\ManyToMany\\Student.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\ManyToMany\\Student.cs",
+              "RelativeToolTip": "DataNotations\\Models\\ManyToMany\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:11:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataNotations\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:43:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250902030944_relation_one_to_many.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs",
+              "RelativeToolTip": "DataNotations\\Migrations\\20250902030944_relation_one_to_many.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:09:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToMany\\Patient.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\OneToMany\\Patient.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToMany\\Patient.cs",
+              "RelativeToolTip": "DataNotations\\Models\\OneToMany\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:04:43.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToMany\\Doctor.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\OneToMany\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToMany\\Doctor.cs",
+              "RelativeToolTip": "DataNotations\\Models\\OneToMany\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:04:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250902025048_relation_one_to_one.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902025048_relation_one_to_one.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Migrations\\20250902025048_relation_one_to_one.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Migrations\\20250902025048_relation_one_to_one.cs",
+              "RelativeToolTip": "DataNotations\\Migrations\\20250902025048_relation_one_to_one.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:50:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Program.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Program.cs",
+              "RelativeToolTip": "DataNotations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:48:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\appsettings.json",
+              "RelativeDocumentMoniker": "DataNotations\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\appsettings.json",
+              "RelativeToolTip": "DataNotations\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T02:47:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataNotations",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\DataNotations.csproj",
+              "RelativeDocumentMoniker": "DataNotations\\DataNotations.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\DataNotations.csproj",
+              "RelativeToolTip": "DataNotations\\DataNotations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T02:44:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToOne\\CarModel.cs",
+              "RelativeDocumentMoniker": "DataNotations\\Models\\OneToOne\\CarModel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana15\\Lunes\\DataNotations\\DataNotations\\Models\\OneToOne\\CarModel.cs",
+              "RelativeToolTip": "DataNotations\\Models\\OneToOne\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:39:17.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

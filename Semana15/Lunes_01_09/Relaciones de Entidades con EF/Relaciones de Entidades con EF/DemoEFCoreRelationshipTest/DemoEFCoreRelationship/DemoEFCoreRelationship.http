@@ -1,0 +1,6 @@
+@DemoEFCoreRelationship_HostAddress = http://localhost:5004
+
+GET {{DemoEFCoreRelationship_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
