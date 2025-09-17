@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana17\\Lunes_15_09\\ProyectoCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana17\\lunes_15_09\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana17\\Lunes_15_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana17\\Lunes_15_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:59:15.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
