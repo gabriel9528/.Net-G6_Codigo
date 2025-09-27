@@ -3,48 +3,168 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\wwwroot\\js\\slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\wwwroot\\js\\slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\wwwroot\\js\\articulo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\wwwroot\\js\\articulo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\data\\repository\\irepository\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\data\\repository\\irepository\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4620F69-DF17-4560-9A04-CE8518E8F46B}|ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.utilidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4620F69-DF17-4560-9A04-CE8518E8F46B}|ProyectoCapas.Utilidades\\ProyectoCapas.Utilidades.csproj|solutionrelative:proyectocapas.utilidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EBFBD5-02A7-40C7-BE6F-BC94ABC06C74}|ProyectoCapas.Models\\ProyectoCapas.Models.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EBFBD5-02A7-40C7-BE6F-BC94ABC06C74}|ProyectoCapas.Models\\ProyectoCapas.Models.csproj|solutionrelative:proyectocapas.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5DF3D-F784-44F5-85BD-4E67B8258C11}|ProyectoCapas\\ProyectoCapas.csproj|solutionrelative:proyectocapas\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\migrations\\20250924012805_table_campos_nuevos_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\migrations\\20250924012805_table_campos_nuevos_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\proyectocapas.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|solutionrelative:proyectocapas.accesodatos\\proyectocapas.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC3CAA1E-62EB-4FD6-BE78-018F9D55B3D0}|ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana18\\lunes_22_09\\proyectocapas\\proyectocapas.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,73 +178,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
-              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T01:21:50.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "slider.js",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\slider.js",
-              "RelativeDocumentMoniker": "ProyectoCapas\\wwwroot\\js\\slider.js",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\slider.js",
-              "RelativeToolTip": "ProyectoCapas\\wwwroot\\js\\slider.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-23T01:18:56.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "articulo.js",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",
-              "RelativeDocumentMoniker": "ProyectoCapas\\wwwroot\\js\\articulo.js",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\wwwroot\\js\\articulo.js",
-              "RelativeToolTip": "ProyectoCapas\\wwwroot\\js\\articulo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-23T01:11:29.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
-              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T01:05:44.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SlidersController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAuwDkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:03:27.106Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -133,9 +188,35 @@
               "RelativeDocumentMoniker": "ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProyectoCapas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwCwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T00:51:21.411Z",
+              "WhenOpened": "2025-09-24T03:49:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T03:45:54.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:39:25.396Z",
               "EditorCaption": ""
             },
             {
@@ -146,74 +227,503 @@
               "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:49:35.794Z",
+              "WhenOpened": "2025-09-24T03:38:19.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IContenedorTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
-              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:48:58.768Z",
+              "WhenOpened": "2025-09-24T02:47:24.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SliderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\SliderRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\SliderRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\SliderRepository.cs",
-              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\SliderRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:46:00.616Z",
+              "WhenOpened": "2025-09-24T02:47:24.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ISliderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\ISliderRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\ISliderRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\ISliderRepository.cs",
-              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\Repository\\IRepository\\ISliderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:44:54.585Z",
+              "WhenOpened": "2025-09-24T02:47:24.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:03:44.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20250923004328_table_Sliders.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs",
-              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs",
-              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Migrations\\20250923004328_table_Sliders.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wAkAAAAaAAAAAAAAAA==",
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.Utilidades\\Roles.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.Utilidades\\Roles.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.Utilidades\\Roles.cs",
+              "RelativeToolTip": "ProyectoCapas.Utilidades\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:43:28.914Z",
+              "WhenOpened": "2025-09-24T01:49:28.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ProyectoCapas.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:05:23.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T01:41:12.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAtwIYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:41:25.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Program.cs",
+              "RelativeToolTip": "ProyectoCapas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:17:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:03:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:04:11.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T02:04:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:03:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:02:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:02:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:02:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:01:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:01:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAewEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:00:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAWwI0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:00:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAWwEoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:59:46.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:59:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:59:13.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:58:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:58:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T01:57:56.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:57:45.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:57:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:56:55.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:56:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAADwv9cAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:54:55.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:54:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:54:06.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ProyectoCapas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:53:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:37:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250924012805_table_campos_nuevos_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20250924012805_table_campos_nuevos_Identity.cs",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Migrations\\20250924012805_table_campos_nuevos_Identity.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Migrations\\20250924012805_table_campos_nuevos_Identity.cs",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Migrations\\20250924012805_table_campos_nuevos_Identity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:31:24.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProyectoCapas.AccesoDatos",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+              "RelativeToolTip": "ProyectoCapas.AccesoDatos\\ProyectoCapas.AccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T01:20:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana18\\Lunes_22_09\\ProyectoCapas\\ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ProyectoCapas.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:41:35.914Z",
+              "WhenOpened": "2025-09-24T01:11:40.246Z",
               "EditorCaption": ""
             }
           ]
