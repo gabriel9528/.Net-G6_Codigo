@@ -1,0 +1,83 @@
+﻿@page "/departments"
+@using Blazor.Server.Models
+@using Blazor.Server.Services
+
+@inject DepartmentService _departmentService
+@inject NavigationManager _navigation
+
+<h3>Lista de Departamentos</h3>
+
+<button class="btn btn-primary mb-3" @onclick="NavigateToCreate">Crear nuevo Departamento</button>
+
+@if(departments == null)
+{
+    <p>Cargando departamentos</p>
+}
+else if (!departments.Any())
+{
+    <div class="alert alert-info"> No hay departamentos registrados</div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Cantidad de empleados</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var department in departments)
+                {
+                    <tr>
+                        <td>@department.Id</td>
+                        <td>@department.Name</td>
+                        <td>@department.Employees.Count()</td>
+                        <td>
+                            <button class="btn btn-sm btn-warning me-1" @onclick="() => EditDepartment(department.Id)">
+                                Editar
+                            </button>
+                            <button class="btn btn-sm btn-warning me-1" @onclick="() => DeleteDepartment(department.Id)">
+                                Eliminar
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    private List<Department> departments = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadDepartments();
+    }
+
+    private async Task LoadDepartments()
+    {
+        departments = await _departmentService.GetDepartmentsAsync();
+        StateHasChanged();
+    }
+
+    private void NavigateToCreate()
+    {
+        _navigation.NavigateTo("/departments/create");
+    }
+
+    private void EditDepartment(int id)
+    {
+        _navigation.NavigateTo($"/departments/edit/{id}");
+    }
+
+    private void DeleteDepartment(int id)
+    {
+        _navigation.NavigateTo($"/departments/delete/{id}");
+    }
+
+}

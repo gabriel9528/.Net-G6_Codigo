@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\components\\pages\\employeeform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\components\\pages\\employeeform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\components\\pages\\departmentlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\components\\pages\\departmentlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C19353-7B19-4216-8CC5-EC93122F3565}|Blazor.Shared\\Blazor.Shared.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.shared\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C19353-7B19-4216-8CC5-EC93122F3565}|Blazor.Shared\\Blazor.Shared.csproj|solutionrelative:blazor.shared\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C19353-7B19-4216-8CC5-EC93122F3565}|Blazor.Shared\\Blazor.Shared.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.shared\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C19353-7B19-4216-8CC5-EC93122F3565}|Blazor.Shared\\Blazor.Shared.csproj|solutionrelative:blazor.shared\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana19\\viernes_03_10\\blazorwebapp_demo\\blazor.server\\migrations\\20251004015148_first_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9EA1A0-5D3D-43D9-A9C8-E7864F8A4E4C}|Blazor.Server\\Blazor.Server.csproj|solutionrelative:blazor.server\\migrations\\20251004015148_first_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor.Server\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Blazor.Server\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T03:35:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Blazor.Server\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T04:01:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentList.razor",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\DepartmentList.razor",
+              "RelativeDocumentMoniker": "Blazor.Server\\Components\\Pages\\DepartmentList.razor",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\DepartmentList.razor",
+              "RelativeToolTip": "Blazor.Server\\Components\\Pages\\DepartmentList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T03:36:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.razor",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\EmployeeForm.razor",
+              "RelativeDocumentMoniker": "Blazor.Server\\Components\\Pages\\EmployeeForm.razor",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\EmployeeForm.razor",
+              "RelativeToolTip": "Blazor.Server\\Components\\Pages\\EmployeeForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T03:56:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Blazor.Server\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T04:01:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Program.cs",
+              "RelativeToolTip": "Blazor.Server\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:08:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Blazor.Server\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:45:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Blazor.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:26:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Blazor.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T04:04:23.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Blazor.Server\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Blazor.Server\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T03:36:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Blazor.Server\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Blazor.Server\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T03:35:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251004015148_first_migration.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Migrations\\20251004015148_first_migration.cs",
+              "RelativeDocumentMoniker": "Blazor.Server\\Migrations\\20251004015148_first_migration.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\Migrations\\20251004015148_first_migration.cs",
+              "RelativeToolTip": "Blazor.Server\\Migrations\\20251004015148_first_migration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:51:48.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T01:49:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Shared\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Blazor.Shared\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Shared\\ResponseDto.cs",
+              "RelativeToolTip": "Blazor.Shared\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:20:38.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Shared\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Blazor.Shared\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana19\\Viernes_03_10\\BlazorWebApp_Demo\\Blazor.Shared\\DepartmentDto.cs",
+              "RelativeToolTip": "Blazor.Shared\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:18:30.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

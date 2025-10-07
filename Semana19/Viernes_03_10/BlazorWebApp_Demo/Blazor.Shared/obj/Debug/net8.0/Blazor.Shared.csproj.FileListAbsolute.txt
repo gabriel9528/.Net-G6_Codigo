@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\bin\Debug\net8.0\Blazor.Shared.deps.json
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\bin\Debug\net8.0\Blazor.Shared.dll
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\bin\Debug\net8.0\Blazor.Shared.pdb
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.sourcelink.json
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.dll
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\refint\Blazor.Shared.dll
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\Blazor.Shared.pdb
+C:\Users\USUARIO\Desktop\Codigo_Tecsup\.Net_G6\.Net-G6_Codigo\Semana19\Viernes_03_10\BlazorWebApp_Demo\Blazor.Shared\obj\Debug\net8.0\ref\Blazor.Shared.dll

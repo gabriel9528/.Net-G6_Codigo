@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\services\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\services\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.web\\services\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC877F6-31DE-4880-9712-736F4A3CF6D0}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\services\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E6FCA3-3C4C-4ADF-94CE-F8FB7B3D5D74}|Microservices.Microservices.CouponAPI\\Microservices.Microservices.CouponAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.microservices.couponapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E6FCA3-3C4C-4ADF-94CE-F8FB7B3D5D74}|Microservices.Microservices.CouponAPI\\Microservices.Microservices.CouponAPI.csproj|solutionrelative:microservices.microservices.couponapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E6FCA3-3C4C-4ADF-94CE-F8FB7B3D5D74}|Microservices.Microservices.CouponAPI\\Microservices.Microservices.CouponAPI.csproj|c:\\users\\usuario\\desktop\\codigo_tecsup\\.net_g6\\.net-g6_codigo\\semana20\\lunes_06_10\\microservices\\microservices.microservices.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E6FCA3-3C4C-4ADF-94CE-F8FB7B3D5D74}|Microservices.Microservices.CouponAPI\\Microservices.Microservices.CouponAPI.csproj|solutionrelative:microservices.microservices.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Program.cs",
+              "RelativeToolTip": "Microservices.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:58:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\CouponService.cs",
+              "RelativeToolTip": "Microservices.Web\\Services\\CouponService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:32:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Models\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Models\\CouponDto.cs",
+              "RelativeToolTip": "Microservices.Web\\Models\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:25:56.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Services\\IService\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\IService\\ICouponService.cs",
+              "RelativeToolTip": "Microservices.Web\\Services\\IService\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:25:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "Microservices.Web\\Services\\BaseService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:03:47.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Services\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Web\\Services\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Microservices.Web\\Services\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:02:27.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251007005702_table_coupons_2.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs",
+              "RelativeDocumentMoniker": "Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs",
+              "RelativeToolTip": "Microservices.Microservices.CouponAPI\\Migrations\\20251007005702_table_coupons_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:57:02.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Microservices.Microservices.CouponAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Microservices.Microservices.CouponAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:46:31.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251007005322_table_coupons.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs",
+              "RelativeDocumentMoniker": "Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs",
+              "RelativeToolTip": "Microservices.Microservices.CouponAPI\\Migrations\\20251007005322_table_coupons.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:53:22.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservices.Microservices.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Codigo_Tecsup\\.Net_G6\\.Net-G6_Codigo\\Semana20\\Lunes_06_10\\Microservices\\Microservices.Microservices.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "Microservices.Microservices.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T00:48:34.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
