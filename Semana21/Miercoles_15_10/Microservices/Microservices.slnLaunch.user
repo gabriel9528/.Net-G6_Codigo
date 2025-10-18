@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Microservices.Microservices.CouponAPI\\Microservices.Microservices.CouponAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Microservices.Web\\Microservices.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Microservices.Microservices.AuthAPI\\Microservices.Microservices.AuthAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Microservices.Microservices.ProductAPI\\Microservices.Microservices.ProductAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Microservices.Microservices.ShoppingCartAPI\\Microservices.Microservices.ShoppingCartAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
